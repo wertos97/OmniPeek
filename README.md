@@ -4,7 +4,7 @@
 > The great majority of this app's code has been generated with help of an AI agent.
 > This app wouldn't exist without this kind of support.
 
-OmniPeek is a lightweight, scalable live-preview tool for Windows. It allows you to monitor the contents of a secondary display via a real-time, scaleable floating window on your primary display.
+OmniPeek is a lightweight, scalable live-preview tool for Windows. I decided to create it because I wasn't happy with OnTopReplica not being able to display the entire display. This app is inspired by OnTopReplica and allows you to monitor the contents of one or two (or more?) external displays via a real-time, scaleable floating window on your primary display. In the **right-click menu** you can freely select which display(s) you want to see, select the display layout and toggle borderless mode. You can also quickly move the window to an edge or corner of your screen but I noticed it works better while in borderless mode. While in borderless mode you can drag the window around just by left-clicking it and holding. I created this app for fun and for my own needs and I'll be happy if others find use for it too.
 
 ## Features
 - **Live Screen Mirroring:** Fast screen captures using `mss` with real-time mouse cursor overlay.
@@ -34,4 +34,5 @@ or
 
 ## License
 MIT
+
 
