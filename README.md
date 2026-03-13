@@ -1,5 +1,9 @@
 # OmniPeek
 
+> [!IMPORTANT]
+> The great majority of this app's code has been generated with help of an AI agent.
+> This app wouldn't exist without this kind of support.
+
 OmniPeek is a lightweight, scalable live-preview tool for Windows. It allows you to monitor the contents of a secondary display via a real-time, scaleable floating window on your primary display.
 
 ## Features
@@ -16,6 +20,9 @@ OmniPeek is a lightweight, scalable live-preview tool for Windows. It allows you
 - Python 3.10+
 
 ### Installation
+1. Download the exe from releases and run.
+
+or
 1. Clone the repository.
 2. Create a virtual environment: `python -m venv venv`
 3. Activate the environment: `.\venv\Scripts\activate`
@@ -27,3 +34,4 @@ OmniPeek is a lightweight, scalable live-preview tool for Windows. It allows you
 
 ## License
 MIT
+
